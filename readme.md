@@ -121,12 +121,3 @@ Let's bring AI-powered plant doctors to every field
 
 </div>
 ```
-
-**Instructions:**
-1. Open your project folder
-2. Create a new file named exactly: `README.md`
-3. Paste the entire content above
-4. Replace `yourusername` with your actual GitHub username
-5. Save → commit → push
-
-Your GitHub repository will instantly look professional and polished! Done.
