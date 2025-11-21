@@ -63,7 +63,6 @@ App will open at http://localhost:8501
 - All recommended treatments (dosage, frequency, safety)
 - Step-by-step preparation & spraying guide
 - Prevention tips for next season
-- Scannable QR code
 - Clean, professional layout (ideal for field officers)
 
 ---
