@@ -1,6 +1,4 @@
-Here is your ready-to-use **`README.md`** file — just copy all the text below and save it as `README.md` in your project folder.
 
-```markdown
 # Crop Disease Detection System  
 **AI-Powered Plant Health Diagnosis with Professional PDF Reports**
 
